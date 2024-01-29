@@ -2,6 +2,15 @@
 
 <h4>Welcome to the CODTECH IT SOLUTIONS Java Internship Projects repository! This repository showcases the projects completed during the internship period. Each project focuses on different aspects of Java programming and application development.</h4>
 
+<ol>
+   <li>Basic Calculator</li>
+   <li>Tic Tac Toe</li>
+   <li>Student Grade Management System</li>
+   <li>Number Guessing Game</li>
+   <li>Text File Encryption and Decryption</li>
+</ol>
+
+
 <h4>1. Basic Calculator</h4>
 
 This project implements a simple calculator with basic arithmetic operations such as addition, subtraction, multiplication, and division. The user-friendly interface allows users to perform calculations effortlessly.
