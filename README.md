@@ -1,6 +1,6 @@
 <h3>COD_TECH_IT_SOLUTIONS_JAVA_INTERNSHIP</h3>
 
-<h3>Welcome to the CODTECH IT SOLUTIONS Java Internship Projects repository! This repository showcases the projects completed during the internship period. Each project focuses on different aspects of Java programming and application development.</h3>
+<h4>Welcome to the CODTECH IT SOLUTIONS Java Internship Projects repository! This repository showcases the projects completed during the internship period. Each project focuses on different aspects of Java programming and application development.</h4>
 
 <h4>1. Basic Calculator</h4>
 
